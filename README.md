@@ -1,1 +1,1 @@
-# Variedades-Estad-sticas
+# Statistical Manifolds
